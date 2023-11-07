@@ -12,3 +12,12 @@ Alternatives (as of 11/2023)
 - Remix
 - Gatsby
 - Expo 
+
+
+After installing npm and git, at a terminal type (replacing "my-app" with your app name):
+
+npx create-react-app my-app
+
+To start the app:
+
+Run npm start
