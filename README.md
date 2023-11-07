@@ -6,9 +6,9 @@ CRA (Create React App) has, for a long time, been used as an easy starting point
 As of March 16, 2023, the React Development Team https://react.dev/ no longer recommends CRA.
 
 Alternatives (as of 11/2023)
-Vite + React
-Next.js
-T3 Stack
-Remix
-Gatsby
-Expo 
+- Vite + React
+- Next.js
+- T3 Stack
+- Remix
+- Gatsby
+- Expo 
